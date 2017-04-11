@@ -1,0 +1,17 @@
+.mt30
+{
+    margin-top:30px;
+}
+
+#fixedBottom
+{
+    position: fixed;
+    top:90%;
+    width:100%;
+    left:0%;
+    background-color: #aeb0ac;
+}
+.mt50
+{
+    margin-top: 50px;
+}
